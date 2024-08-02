@@ -21,8 +21,8 @@ This is a cross-platform medication reminder app built using React Native and Ex
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/medication-reminder-app.git
-    cd medication-reminder-app
+    git clone https://github.com/tomunizua/pillpal.git
+    cd pillpal
     ```
 
 2. Install dependencies:
